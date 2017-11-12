@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint">Amount to convert</string>
+    <string name="rad_USD_to_MXN">Convert US Dollar (USD) to Mexican Pesos (MXN)</string>
+    <string name="rad_MXN_to_USD">Convert Mexican Pesos (MXN) to US Dollar (USD)</string>
+    <string name="btn_convert">Convert Amount</string>
+
+</resources>
